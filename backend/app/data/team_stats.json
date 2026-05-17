@@ -1,0 +1,2312 @@
+{
+    "England": {
+        "elo": 1960.907074484035,
+        "last10_form": 0.8,
+        "format_elo": 1737.8063140657516,
+        "city_experience": 4.0
+    },
+    "South Africa": {
+        "elo": 2006.3859724810386,
+        "last10_form": 0.6,
+        "format_elo": 1807.9366582646423,
+        "city_experience": 17.0
+    },
+    "New Zealand": {
+        "elo": 1997.9286709720327,
+        "last10_form": 0.5,
+        "format_elo": 1820.73398997928,
+        "city_experience": 4.0
+    },
+    "Australia": {
+        "elo": 2092.303366758209,
+        "last10_form": 0.9,
+        "format_elo": 1938.598677754739,
+        "city_experience": 4.0
+    },
+    "India": {
+        "elo": 2002.5379800108976,
+        "last10_form": 0.4,
+        "format_elo": 1807.80861952395,
+        "city_experience": 19.0
+    },
+    "Sri Lanka": {
+        "elo": 1861.9086113222597,
+        "last10_form": 0.6,
+        "format_elo": 1695.2127791565467,
+        "city_experience": 14.0
+    },
+    "West Indies": {
+        "elo": 1723.9714440412165,
+        "last10_form": 0.1,
+        "format_elo": 1534.182928609383,
+        "city_experience": 19.0
+    },
+    "Zimbabwe": {
+        "elo": 1653.0502173631655,
+        "last10_form": 0.3,
+        "format_elo": 1478.0381843251346,
+        "city_experience": 2.0
+    },
+    "Canada": {
+        "elo": 1520.988339799038,
+        "last10_form": 0.1,
+        "format_elo": 1664.423865794413,
+        "city_experience": 0.0
+    },
+    "Kenya": {
+        "elo": 1452.7669957309258,
+        "last10_form": 0.2,
+        "format_elo": 1515.9606306048886,
+        "city_experience": 5.0
+    },
+    "Netherlands": {
+        "elo": 1783.315821792675,
+        "last10_form": 0.8,
+        "format_elo": 1696.4171702057472,
+        "city_experience": 0.0
+    },
+    "Pakistan": {
+        "elo": 1921.795683821795,
+        "last10_form": 0.5,
+        "format_elo": 1719.1343352818199,
+        "city_experience": 70.0
+    },
+    "Bangladesh": {
+        "elo": 1850.4044038034338,
+        "last10_form": 0.4,
+        "format_elo": 1653.168373656975,
+        "city_experience": 88.0
+    },
+    "United States of America": {
+        "elo": 1747.250651336792,
+        "last10_form": 0.6,
+        "format_elo": 1673.4409262010586,
+        "city_experience": 5.0
+    },
+    "Africa XI": {
+        "elo": 1482.6658413353916,
+        "last10_form": 0.3333333333333333,
+        "format_elo": 1482.6658413353916,
+        "city_experience": 1.0
+    },
+    "Ireland": {
+        "elo": 1770.2904860516364,
+        "last10_form": 0.6,
+        "format_elo": 1697.1577256238934,
+        "city_experience": 6.0
+    },
+    "Bermuda": {
+        "elo": 1579.9561524903131,
+        "last10_form": 0.7,
+        "format_elo": 1637.648879186062,
+        "city_experience": 7.0
+    },
+    "Scotland": {
+        "elo": 1754.4944079847346,
+        "last10_form": 0.5,
+        "format_elo": 1538.0061665076016,
+        "city_experience": 9.0
+    },
+    "Royal Challengers Bangalore": {
+        "elo": 1514.095155490142,
+        "last10_form": 0.5,
+        "format_elo": 1514.095155490142,
+        "city_experience": 13.0
+    },
+    "Delhi Daredevils": {
+        "elo": 1445.1515275890465,
+        "last10_form": 0.3,
+        "format_elo": 1445.1515275890465,
+        "city_experience": 61.0
+    },
+    "Kings XI Punjab": {
+        "elo": 1486.268601121436,
+        "last10_form": 0.4,
+        "format_elo": 1486.268601121436,
+        "city_experience": 5.0
+    },
+    "Mumbai Indians": {
+        "elo": 1474.8061326779377,
+        "last10_form": 0.3,
+        "format_elo": 1474.8061326779377,
+        "city_experience": 16.0
+    },
+    "Kolkata Knight Riders": {
+        "elo": 1478.6155882876346,
+        "last10_form": 0.2,
+        "format_elo": 1478.6155882876346,
+        "city_experience": 6.0
+    },
+    "Rajasthan Royals": {
+        "elo": 1539.5064319844685,
+        "last10_form": 0.7,
+        "format_elo": 1539.5064319844685,
+        "city_experience": 63.0
+    },
+    "Deccan Chargers": {
+        "elo": 1401.9539111668137,
+        "last10_form": 0.3,
+        "format_elo": 1401.9539111668137,
+        "city_experience": 17.0
+    },
+    "Chennai Super Kings": {
+        "elo": 1486.7765129295965,
+        "last10_form": 0.5,
+        "format_elo": 1486.7765129295965,
+        "city_experience": 79.0
+    },
+    "Hong Kong": {
+        "elo": 1591.4339256620058,
+        "last10_form": 0.8,
+        "format_elo": 1526.086710908559,
+        "city_experience": 23.0
+    },
+    "Bahamas": {
+        "elo": 1345.7513467071979,
+        "last10_form": 0.0,
+        "format_elo": 1395.3341289684583,
+        "city_experience": 6.0
+    },
+    "Argentina": {
+        "elo": 1485.4700453844514,
+        "last10_form": 0.6,
+        "format_elo": 1449.5019418221448,
+        "city_experience": 5.0
+    },
+    "Cayman Islands": {
+        "elo": 1468.0714699397784,
+        "last10_form": 0.6,
+        "format_elo": 1524.8777438108352,
+        "city_experience": 8.0
+    },
+    "Italy": {
+        "elo": 1640.4571317060568,
+        "last10_form": 0.4,
+        "format_elo": 1593.3611885766663,
+        "city_experience": 7.0
+    },
+    "Nepal": {
+        "elo": 1679.8921082098836,
+        "last10_form": 0.7,
+        "format_elo": 1390.120448509819,
+        "city_experience": 72.0
+    },
+    "Kochi Tuskers Kerala": {
+        "elo": 1472.0932692726228,
+        "last10_form": 0.5,
+        "format_elo": 1472.0932692726228,
+        "city_experience": 1.0
+    },
+    "Pune Warriors": {
+        "elo": 1331.1034194177803,
+        "last10_form": 0.1,
+        "format_elo": 1331.1034194177803,
+        "city_experience": 15.0
+    },
+    "United Arab Emirates": {
+        "elo": 1689.3645808950002,
+        "last10_form": 0.3,
+        "format_elo": 1335.3799060955075,
+        "city_experience": 14.0
+    },
+    "Namibia": {
+        "elo": 1523.0859603389372,
+        "last10_form": 0.1,
+        "format_elo": 1538.0221173609905,
+        "city_experience": 124.0
+    },
+    "Sydney Sixers": {
+        "elo": 1576.2737542771492,
+        "last10_form": 0.7,
+        "format_elo": 1576.2737542771492,
+        "city_experience": 24.0
+    },
+    "Melbourne Stars": {
+        "elo": 1506.089598976248,
+        "last10_form": 0.6,
+        "format_elo": 1506.089598976248,
+        "city_experience": 23.0
+    },
+    "Perth Scorchers": {
+        "elo": 1578.286084324902,
+        "last10_form": 0.7,
+        "format_elo": 1578.286084324902,
+        "city_experience": 129.0
+    },
+    "Adelaide Strikers": {
+        "elo": 1441.059725544403,
+        "last10_form": 0.4,
+        "format_elo": 1441.059725544403,
+        "city_experience": 21.0
+    },
+    "Brisbane Heat": {
+        "elo": 1447.8589846095,
+        "last10_form": 0.5,
+        "format_elo": 1447.8589846095,
+        "city_experience": 96.0
+    },
+    "Hobart Hurricanes": {
+        "elo": 1615.3219184832299,
+        "last10_form": 0.7,
+        "format_elo": 1615.3219184832299,
+        "city_experience": 99.0
+    },
+    "Melbourne Renegades": {
+        "elo": 1445.0270789765063,
+        "last10_form": 0.4,
+        "format_elo": 1445.0270789765063,
+        "city_experience": 20.0
+    },
+    "Sydney Thunder": {
+        "elo": 1442.5158901896843,
+        "last10_form": 0.3,
+        "format_elo": 1442.5158901896843,
+        "city_experience": 99.0
+    },
+    "Barisal Burners": {
+        "elo": 1458.615116125412,
+        "last10_form": 0.4,
+        "format_elo": 1458.615116125412,
+        "city_experience": 10.0
+    },
+    "Khulna Royal Bengals": {
+        "elo": 1452.9585420892017,
+        "last10_form": 0.3,
+        "format_elo": 1452.9585420892017,
+        "city_experience": 7.0
+    },
+    "Dhaka Gladiators": {
+        "elo": 1559.8399190297798,
+        "last10_form": 0.7,
+        "format_elo": 1559.8399190297798,
+        "city_experience": 11.0
+    },
+    "Duronto Rajshahi": {
+        "elo": 1528.6233834045581,
+        "last10_form": 0.6,
+        "format_elo": 1528.6233834045581,
+        "city_experience": 8.0
+    },
+    "Cape Cobras": {
+        "elo": 1502.912648998475,
+        "last10_form": 0.4,
+        "format_elo": 1502.912648998475,
+        "city_experience": 11.0
+    },
+    "Lions": {
+        "elo": 1547.1420787409352,
+        "last10_form": 0.6,
+        "format_elo": 1546.83694010227,
+        "city_experience": 17.0
+    },
+    "Titans": {
+        "elo": 1675.311487515059,
+        "last10_form": 0.8,
+        "format_elo": 1673.2316758544991,
+        "city_experience": 9.0
+    },
+    "Sylhet Royals": {
+        "elo": 1580.2025441492742,
+        "last10_form": 0.9,
+        "format_elo": 1580.2025441492742,
+        "city_experience": 9.0
+    },
+    "Dolphins": {
+        "elo": 1541.4549983847062,
+        "last10_form": 0.5,
+        "format_elo": 1541.4549983847062,
+        "city_experience": 0.0
+    },
+    "Warriors": {
+        "elo": 1541.648980735767,
+        "last10_form": 0.7,
+        "format_elo": 1488.031831651493,
+        "city_experience": 3.0
+    },
+    "Chittagong Kings": {
+        "elo": 1583.1855622263997,
+        "last10_form": 0.6,
+        "format_elo": 1583.1855622263997,
+        "city_experience": 18.0
+    },
+    "Impi": {
+        "elo": 1413.7542343123703,
+        "last10_form": 0.0,
+        "format_elo": 1413.7542343123703,
+        "city_experience": 0.0
+    },
+    "Knights": {
+        "elo": 1413.562185063022,
+        "last10_form": 0.4,
+        "format_elo": 1411.3705239817887,
+        "city_experience": 4.0
+    },
+    "Denmark": {
+        "elo": 1512.717150663214,
+        "last10_form": 0.5,
+        "format_elo": 1474.0774088225953,
+        "city_experience": 0.0
+    },
+    "Malaysia": {
+        "elo": 1529.2635597206868,
+        "last10_form": 0.5,
+        "format_elo": 1456.5636462858918,
+        "city_experience": 6.0
+    },
+    "Tanzania": {
+        "elo": 1558.5965345275415,
+        "last10_form": 0.4,
+        "format_elo": 1601.4235025477542,
+        "city_experience": 8.0
+    },
+    "Singapore": {
+        "elo": 1337.8788833946396,
+        "last10_form": 0.5,
+        "format_elo": 1327.546645883164,
+        "city_experience": 11.0
+    },
+    "Bhutan": {
+        "elo": 1371.8809410659765,
+        "last10_form": 0.4,
+        "format_elo": 1336.5371101765159,
+        "city_experience": 13.0
+    },
+    "Ghana": {
+        "elo": 1399.691261485087,
+        "last10_form": 0.6,
+        "format_elo": 1455.6878227823386,
+        "city_experience": 6.0
+    },
+    "Samoa": {
+        "elo": 1363.1987535790379,
+        "last10_form": 0.4,
+        "format_elo": 1436.881563943383,
+        "city_experience": 4.0
+    },
+    "Belgium": {
+        "elo": 1484.7724470306728,
+        "last10_form": 0.4,
+        "format_elo": 1473.4079228689575,
+        "city_experience": 3.0
+    },
+    "Canterbury": {
+        "elo": 1448.9284881713154,
+        "last10_form": 0.3,
+        "format_elo": 1576.3511921435502,
+        "city_experience": 14.0
+    },
+    "Central Stags": {
+        "elo": 1525.181324550725,
+        "last10_form": 0.5,
+        "format_elo": 1527.877112399197,
+        "city_experience": 3.0
+    },
+    "Northern Districts": {
+        "elo": 1601.6161678479098,
+        "last10_form": 0.8,
+        "format_elo": 1562.5348734464646,
+        "city_experience": 16.0
+    },
+    "Wellington Firebirds": {
+        "elo": 1419.40772277015,
+        "last10_form": 0.3,
+        "format_elo": 1426.465416941062,
+        "city_experience": 2.0
+    },
+    "Auckland Aces": {
+        "elo": 1482.825032059626,
+        "last10_form": 0.4,
+        "format_elo": 1479.9131376856194,
+        "city_experience": 21.0
+    },
+    "Wellington": {
+        "elo": 1567.1398490463446,
+        "last10_form": 0.5,
+        "format_elo": 1541.6811324528032,
+        "city_experience": 15.0
+    },
+    "Rangpur Riders": {
+        "elo": 1595.579323818972,
+        "last10_form": 0.6,
+        "format_elo": 1595.579323818972,
+        "city_experience": 65.0
+    },
+    "Sunrisers Hyderabad": {
+        "elo": 1557.5870735666351,
+        "last10_form": 0.6,
+        "format_elo": 1557.5870735666351,
+        "city_experience": 66.0
+    },
+    "Oman": {
+        "elo": 1665.1710001903846,
+        "last10_form": 0.4,
+        "format_elo": 1468.5526788815976,
+        "city_experience": 10.0
+    },
+    "Japan": {
+        "elo": 1567.6008221504915,
+        "last10_form": 0.4,
+        "format_elo": 1594.5954346547828,
+        "city_experience": 7.0
+    },
+    "Thailand": {
+        "elo": 1592.7789281084767,
+        "last10_form": 0.4,
+        "format_elo": 1507.4958723542215,
+        "city_experience": 59.0
+    },
+    "Barbados Tridents": {
+        "elo": 1445.2038434845167,
+        "last10_form": 0.4,
+        "format_elo": 1445.2038434845167,
+        "city_experience": 17.0
+    },
+    "Guyana Amazon Warriors": {
+        "elo": 1583.0805827991774,
+        "last10_form": 0.5,
+        "format_elo": 1583.0805827991774,
+        "city_experience": 32.0
+    },
+    "Jamaica Tallawahs": {
+        "elo": 1487.6931296612195,
+        "last10_form": 0.5,
+        "format_elo": 1487.6931296612195,
+        "city_experience": 6.0
+    },
+    "Trinidad & Tobago Red Steel": {
+        "elo": 1563.3902349166044,
+        "last10_form": 0.7,
+        "format_elo": 1563.3902349166044,
+        "city_experience": 13.0
+    },
+    "Antigua Hawksbills": {
+        "elo": 1399.3766483401948,
+        "last10_form": 0.2,
+        "format_elo": 1399.3766483401948,
+        "city_experience": 1.0
+    },
+    "St Lucia Zouks": {
+        "elo": 1532.2728055821783,
+        "last10_form": 0.7,
+        "format_elo": 1532.2728055821783,
+        "city_experience": 13.0
+    },
+    "Uganda": {
+        "elo": 1690.9455498379966,
+        "last10_form": 0.6,
+        "format_elo": 1648.3494226642788,
+        "city_experience": 6.0
+    },
+    "Papua New Guinea": {
+        "elo": 1597.5367169893254,
+        "last10_form": 0.5,
+        "format_elo": 1549.6922221930338,
+        "city_experience": 2.0
+    },
+    "Auckland": {
+        "elo": 1544.471721250062,
+        "last10_form": 0.5,
+        "format_elo": 1521.6304441285017,
+        "city_experience": 16.0
+    },
+    "Otago": {
+        "elo": 1474.225676084149,
+        "last10_form": 0.3,
+        "format_elo": 1450.0045305508559,
+        "city_experience": 7.0
+    },
+    "Otago Volts": {
+        "elo": 1354.213226929998,
+        "last10_form": 0.2,
+        "format_elo": 1347.130802283606,
+        "city_experience": 6.0
+    },
+    "Guernsey": {
+        "elo": 1525.2209988108184,
+        "last10_form": 0.4,
+        "format_elo": 1511.2980899109423,
+        "city_experience": 10.0
+    },
+    "Nigeria": {
+        "elo": 1570.6038524088565,
+        "last10_form": 0.8,
+        "format_elo": 1464.4394598720232,
+        "city_experience": 21.0
+    },
+    "Middlesex": {
+        "elo": 1498.4883220473162,
+        "last10_form": 0.7,
+        "format_elo": 1533.8209901811103,
+        "city_experience": 120.0
+    },
+    "Essex": {
+        "elo": 1461.4483796187292,
+        "last10_form": 0.3,
+        "format_elo": 1480.33821383832,
+        "city_experience": 1.0
+    },
+    "Gloucestershire": {
+        "elo": 1448.2536340980914,
+        "last10_form": 0.3,
+        "format_elo": 1448.075246586995,
+        "city_experience": 4.0
+    },
+    "Worcestershire": {
+        "elo": 1563.369858544058,
+        "last10_form": 0.7,
+        "format_elo": 1563.2458898820041,
+        "city_experience": 19.0
+    },
+    "Warwickshire": {
+        "elo": 1520.6703254832191,
+        "last10_form": 0.3,
+        "format_elo": 1489.8776443253198,
+        "city_experience": 122.0
+    },
+    "Yorkshire": {
+        "elo": 1536.2461301801357,
+        "last10_form": 0.5,
+        "format_elo": 1563.462624327334,
+        "city_experience": 4.0
+    },
+    "Lancashire": {
+        "elo": 1540.9793696282968,
+        "last10_form": 0.6,
+        "format_elo": 1540.6153466998353,
+        "city_experience": 7.0
+    },
+    "Somerset": {
+        "elo": 1599.6537963049598,
+        "last10_form": 0.6,
+        "format_elo": 1580.0090639490827,
+        "city_experience": 22.0
+    },
+    "Derbyshire": {
+        "elo": 1355.9692908831971,
+        "last10_form": 0.2,
+        "format_elo": 1348.333349592764,
+        "city_experience": 2.0
+    },
+    "Northamptonshire": {
+        "elo": 1410.9999354765184,
+        "last10_form": 0.2,
+        "format_elo": 1327.1782725581488,
+        "city_experience": 2.0
+    },
+    "Glamorgan": {
+        "elo": 1446.766552663597,
+        "last10_form": 0.2,
+        "format_elo": 1467.4306434422972,
+        "city_experience": 12.0
+    },
+    "Durham": {
+        "elo": 1457.1526267680242,
+        "last10_form": 0.2,
+        "format_elo": 1450.2358915370692,
+        "city_experience": 0.0
+    },
+    "Nottinghamshire": {
+        "elo": 1560.703517791537,
+        "last10_form": 0.6,
+        "format_elo": 1586.5096901754705,
+        "city_experience": 16.0
+    },
+    "Leicestershire": {
+        "elo": 1453.63471640495,
+        "last10_form": 0.3,
+        "format_elo": 1520.0501615487428,
+        "city_experience": 14.0
+    },
+    "Sussex": {
+        "elo": 1523.111682802581,
+        "last10_form": 0.7,
+        "format_elo": 1515.4625398175708,
+        "city_experience": 24.0
+    },
+    "Surrey": {
+        "elo": 1619.318608992537,
+        "last10_form": 0.6,
+        "format_elo": 1581.3257401973385,
+        "city_experience": 5.0
+    },
+    "Hampshire": {
+        "elo": 1604.1359307658195,
+        "last10_form": 0.5,
+        "format_elo": 1664.08721978081,
+        "city_experience": 6.0
+    },
+    "Kent": {
+        "elo": 1356.8430945388247,
+        "last10_form": 0.2,
+        "format_elo": 1330.2852116738452,
+        "city_experience": 138.0
+    },
+    "Bahrain": {
+        "elo": 1536.3872457851312,
+        "last10_form": 0.3,
+        "format_elo": 1487.7421428396437,
+        "city_experience": 20.0
+    },
+    "Kuwait": {
+        "elo": 1529.4117430660328,
+        "last10_form": 0.5,
+        "format_elo": 1547.2897675384586,
+        "city_experience": 8.0
+    },
+    "Jersey": {
+        "elo": 1690.388022351715,
+        "last10_form": 0.8,
+        "format_elo": 1602.057326953025,
+        "city_experience": 0.0
+    },
+    "South Korea": {
+        "elo": 1280.217968179834,
+        "last10_form": 0.2,
+        "format_elo": 1352.0565068212213,
+        "city_experience": 7.0
+    },
+    "China": {
+        "elo": 1310.7235915611748,
+        "last10_form": 0.3,
+        "format_elo": 1428.6931223844042,
+        "city_experience": 5.0
+    },
+    "Maldives": {
+        "elo": 1271.174886490781,
+        "last10_form": 0.4,
+        "format_elo": 1381.14483939886,
+        "city_experience": 1.0
+    },
+    "Saudi Arabia": {
+        "elo": 1472.213104585053,
+        "last10_form": 0.3,
+        "format_elo": 1475.7008485817446,
+        "city_experience": 21.0
+    },
+    "St Kitts and Nevis Patriots": {
+        "elo": 1381.906878513739,
+        "last10_form": 0.3,
+        "format_elo": 1381.906878513739,
+        "city_experience": 3.0
+    },
+    "Fiji": {
+        "elo": 1401.105132032044,
+        "last10_form": 0.3,
+        "format_elo": 1464.9900247569985,
+        "city_experience": 1.0
+    },
+    "Botswana": {
+        "elo": 1398.1288995763548,
+        "last10_form": 0.6,
+        "format_elo": 1431.4210034074156,
+        "city_experience": 48.0
+    },
+    "Norway": {
+        "elo": 1488.3799460449259,
+        "last10_form": 0.4,
+        "format_elo": 1466.7556967844769,
+        "city_experience": 10.0
+    },
+    "Suriname": {
+        "elo": 1386.2693007084488,
+        "last10_form": 0.2,
+        "format_elo": 1377.0059388081354,
+        "city_experience": 4.0
+    },
+    "Comilla Victorians": {
+        "elo": 1703.848025221309,
+        "last10_form": 0.7,
+        "format_elo": 1703.848025221309,
+        "city_experience": 58.0
+    },
+    "Barisal Bulls": {
+        "elo": 1470.4568002436574,
+        "last10_form": 0.3,
+        "format_elo": 1470.4568002436574,
+        "city_experience": 17.0
+    },
+    "Chittagong Vikings": {
+        "elo": 1456.2010900362206,
+        "last10_form": 0.5,
+        "format_elo": 1456.2010900362206,
+        "city_experience": 24.0
+    },
+    "Dhaka Dynamites": {
+        "elo": 1566.9384882682184,
+        "last10_form": 0.6,
+        "format_elo": 1566.9384882682184,
+        "city_experience": 7.0
+    },
+    "Sylhet Super Stars": {
+        "elo": 1476.8859698923568,
+        "last10_form": 0.3333333333333333,
+        "format_elo": 1476.8859698923568,
+        "city_experience": 4.0
+    },
+    "Saurashtra": {
+        "elo": 1589.7232891237438,
+        "last10_form": 0.6,
+        "format_elo": 1589.7232891237438,
+        "city_experience": 0.0
+    },
+    "Jammu & Kashmir": {
+        "elo": 1472.5514189764904,
+        "last10_form": 0.4,
+        "format_elo": 1472.5514189764904,
+        "city_experience": 3.0
+    },
+    "Maharashtra": {
+        "elo": 1590.5858273637605,
+        "last10_form": 0.5,
+        "format_elo": 1590.5858273637605,
+        "city_experience": 38.0
+    },
+    "Andhra": {
+        "elo": 1470.6434898289358,
+        "last10_form": 0.4,
+        "format_elo": 1470.6434898289358,
+        "city_experience": 1.0
+    },
+    "Bengal": {
+        "elo": 1581.3410159364787,
+        "last10_form": 0.6,
+        "format_elo": 1581.3410159364787,
+        "city_experience": 0.0
+    },
+    "Punjab": {
+        "elo": 1652.0276392992955,
+        "last10_form": 0.8,
+        "format_elo": 1652.0276392992955,
+        "city_experience": 2.0
+    },
+    "Odisha": {
+        "elo": 1431.9060988728656,
+        "last10_form": 0.4,
+        "format_elo": 1431.9060988728656,
+        "city_experience": 26.0
+    },
+    "Haryana": {
+        "elo": 1573.2039345798676,
+        "last10_form": 0.4,
+        "format_elo": 1573.2039345798676,
+        "city_experience": 2.0
+    },
+    "Railways": {
+        "elo": 1462.5278354646682,
+        "last10_form": 0.4,
+        "format_elo": 1462.5278354646682,
+        "city_experience": 2.0
+    },
+    "Gujarat": {
+        "elo": 1607.512209667071,
+        "last10_form": 0.8,
+        "format_elo": 1607.512209667071,
+        "city_experience": 0.0
+    },
+    "Karnataka": {
+        "elo": 1706.2464892868827,
+        "last10_form": 0.7,
+        "format_elo": 1706.2464892868827,
+        "city_experience": 1.0
+    },
+    "Hyderabad (India)": {
+        "elo": 1483.7527828981986,
+        "last10_form": 0.6,
+        "format_elo": 1483.7527828981986,
+        "city_experience": 2.0
+    },
+    "Tamil Nadu": {
+        "elo": 1728.5964971351527,
+        "last10_form": 0.8,
+        "format_elo": 1728.5964971351527,
+        "city_experience": 2.0
+    },
+    "Delhi": {
+        "elo": 1649.2227773375037,
+        "last10_form": 0.6,
+        "format_elo": 1649.2227773375037,
+        "city_experience": 1.0
+    },
+    "Kerala": {
+        "elo": 1553.7620463344178,
+        "last10_form": 0.4,
+        "format_elo": 1553.7620463344178,
+        "city_experience": 0.0
+    },
+    "Uttar Pradesh": {
+        "elo": 1584.4278123514148,
+        "last10_form": 0.7,
+        "format_elo": 1584.4278123514148,
+        "city_experience": 1.0
+    },
+    "Goa": {
+        "elo": 1398.3728258830195,
+        "last10_form": 0.4,
+        "format_elo": 1398.3728258830195,
+        "city_experience": 1.0
+    },
+    "Tripura": {
+        "elo": 1436.7348062782764,
+        "last10_form": 0.7,
+        "format_elo": 1436.7348062782764,
+        "city_experience": 1.0
+    },
+    "Baroda": {
+        "elo": 1600.2515860108945,
+        "last10_form": 0.5,
+        "format_elo": 1600.2515860108945,
+        "city_experience": 1.0
+    },
+    "Services": {
+        "elo": 1519.7031259904295,
+        "last10_form": 0.4,
+        "format_elo": 1519.7031259904295,
+        "city_experience": 28.0
+    },
+    "Madhya Pradesh": {
+        "elo": 1568.2052951772448,
+        "last10_form": 0.5,
+        "format_elo": 1568.2052951772448,
+        "city_experience": 2.0
+    },
+    "Jharkhand": {
+        "elo": 1539.4949132313025,
+        "last10_form": 0.4,
+        "format_elo": 1539.4949132313025,
+        "city_experience": 32.0
+    },
+    "Assam": {
+        "elo": 1484.5731505173576,
+        "last10_form": 0.6,
+        "format_elo": 1484.5731505173576,
+        "city_experience": 2.0
+    },
+    "Mumbai": {
+        "elo": 1669.140114013942,
+        "last10_form": 0.8,
+        "format_elo": 1669.140114013942,
+        "city_experience": 2.0
+    },
+    "Rajasthan": {
+        "elo": 1623.7715099771392,
+        "last10_form": 0.7,
+        "format_elo": 1623.7715099771392,
+        "city_experience": 1.0
+    },
+    "Vidarbha": {
+        "elo": 1613.014150281007,
+        "last10_form": 0.8,
+        "format_elo": 1613.014150281007,
+        "city_experience": 0.0
+    },
+    "Islamabad United": {
+        "elo": 1546.1324935651508,
+        "last10_form": 0.5,
+        "format_elo": 1546.1324935651508,
+        "city_experience": 26.0
+    },
+    "Lahore Qalandars": {
+        "elo": 1530.4391453156943,
+        "last10_form": 0.6,
+        "format_elo": 1530.4391453156943,
+        "city_experience": 39.0
+    },
+    "Peshawar Zalmi": {
+        "elo": 1578.879189869821,
+        "last10_form": 0.8,
+        "format_elo": 1578.879189869821,
+        "city_experience": 32.0
+    },
+    "Karachi Kings": {
+        "elo": 1449.7185347729542,
+        "last10_form": 0.4,
+        "format_elo": 1449.7185347729542,
+        "city_experience": 17.0
+    },
+    "Quetta Gladiators": {
+        "elo": 1484.202676973585,
+        "last10_form": 0.3,
+        "format_elo": 1484.202676973585,
+        "city_experience": 24.0
+    },
+    "Gujarat Lions": {
+        "elo": 1466.5239571606555,
+        "last10_form": 0.4,
+        "format_elo": 1466.5239571606555,
+        "city_experience": 3.0
+    },
+    "Rising Pune Supergiants": {
+        "elo": 1455.4891958829576,
+        "last10_form": 0.3,
+        "format_elo": 1455.4891958829576,
+        "city_experience": 2.0
+    },
+    "Northern Knights": {
+        "elo": 1477.8272216653033,
+        "last10_form": 0.4,
+        "format_elo": 1477.8272216653033,
+        "city_experience": 23.0
+    },
+    "North-West Warriors": {
+        "elo": 1378.642299505174,
+        "last10_form": 0.3,
+        "format_elo": 1378.642299505174,
+        "city_experience": 6.0
+    },
+    "Leinster Lightning": {
+        "elo": 1667.0488444074795,
+        "last10_form": 0.9,
+        "format_elo": 1667.0488444074795,
+        "city_experience": 9.0
+    },
+    "Trinbago Knight Riders": {
+        "elo": 1524.6403790646693,
+        "last10_form": 0.3,
+        "format_elo": 1524.6403790646693,
+        "city_experience": 13.0
+    },
+    "Loughborough Lightning": {
+        "elo": 1571.178771750578,
+        "last10_form": 0.7,
+        "format_elo": 1571.178771750578,
+        "city_experience": 1.0
+    },
+    "Surrey Stars": {
+        "elo": 1489.6989256482439,
+        "last10_form": 0.4,
+        "format_elo": 1489.6989256482439,
+        "city_experience": 0.0
+    },
+    "Lancashire Thunder": {
+        "elo": 1363.5608248168037,
+        "last10_form": 0.2,
+        "format_elo": 1363.5608248168037,
+        "city_experience": 0.0
+    },
+    "Yorkshire Diamonds": {
+        "elo": 1446.4823816550177,
+        "last10_form": 0.5,
+        "format_elo": 1446.4823816550177,
+        "city_experience": 1.0
+    },
+    "Southern Vipers": {
+        "elo": 1596.170568911643,
+        "last10_form": 0.4,
+        "format_elo": 1582.0821619725039,
+        "city_experience": 4.0
+    },
+    "Gibraltar": {
+        "elo": 1437.1648228452027,
+        "last10_form": 0.6,
+        "format_elo": 1402.1873999207237,
+        "city_experience": 4.0
+    },
+    "Germany": {
+        "elo": 1614.726554078676,
+        "last10_form": 0.6,
+        "format_elo": 1618.4927528086394,
+        "city_experience": 26.0
+    },
+    "Israel": {
+        "elo": 1434.3456394249263,
+        "last10_form": 0.2,
+        "format_elo": 1469.98846707459,
+        "city_experience": 0.0
+    },
+    "Western Storm": {
+        "elo": 1390.7450851916,
+        "last10_form": 0.2,
+        "format_elo": 1369.9389996734826,
+        "city_experience": 1.0
+    },
+    "Qatar": {
+        "elo": 1503.2308587167452,
+        "last10_form": 0.4,
+        "format_elo": 1497.6261856852213,
+        "city_experience": 37.0
+    },
+    "Khulna Titans": {
+        "elo": 1440.3710553745213,
+        "last10_form": 0.2,
+        "format_elo": 1440.3710553745213,
+        "city_experience": 22.0
+    },
+    "Rajshahi Kings": {
+        "elo": 1469.7120566202632,
+        "last10_form": 0.4,
+        "format_elo": 1469.7120566202632,
+        "city_experience": 8.0
+    },
+    "Indonesia": {
+        "elo": 1425.0206110243964,
+        "last10_form": 0.1,
+        "format_elo": 1374.6660742296049,
+        "city_experience": 6.0
+    },
+    "Vanuatu": {
+        "elo": 1450.1380356283871,
+        "last10_form": 0.4,
+        "format_elo": 1446.9768385272369,
+        "city_experience": 6.0
+    },
+    "Rising Pune Supergiant": {
+        "elo": 1556.4376723117714,
+        "last10_form": 0.7,
+        "format_elo": 1556.4376723117714,
+        "city_experience": 6.0
+    },
+    "Sierra Leone": {
+        "elo": 1349.9986521690212,
+        "last10_form": 0.0,
+        "format_elo": 1266.6570805732993,
+        "city_experience": 8.0
+    },
+    "France": {
+        "elo": 1364.066528818487,
+        "last10_form": 0.1,
+        "format_elo": 1430.4499529632035,
+        "city_experience": 3.0
+    },
+    "Austria": {
+        "elo": 1625.3843853354256,
+        "last10_form": 0.5,
+        "format_elo": 1657.9993744880828,
+        "city_experience": 7.0
+    },
+    "St Lucia Stars": {
+        "elo": 1372.6560601027754,
+        "last10_form": 0.1,
+        "format_elo": 1372.6560601027754,
+        "city_experience": 7.0
+    },
+    "Munster Reds": {
+        "elo": 1451.811068999963,
+        "last10_form": 0.4,
+        "format_elo": 1451.811068999963,
+        "city_experience": 19.0
+    },
+    "South Australia": {
+        "elo": 1522.1277474929384,
+        "last10_form": 0.6,
+        "format_elo": 1522.1277474929384,
+        "city_experience": 6.0
+    },
+    "Sylhet Sixers": {
+        "elo": 1437.950381296748,
+        "last10_form": 0.4,
+        "format_elo": 1437.950381296748,
+        "city_experience": 9.0
+    },
+    "Queensland": {
+        "elo": 1462.460129222956,
+        "last10_form": 0.4,
+        "format_elo": 1462.460129222956,
+        "city_experience": 39.0
+    },
+    "Central Districts": {
+        "elo": 1530.5816140825568,
+        "last10_form": 0.7,
+        "format_elo": 1510.9491602844887,
+        "city_experience": 17.0
+    },
+    "Himachal": {
+        "elo": 1568.0095974408869,
+        "last10_form": 0.7,
+        "format_elo": 1568.0095974408869,
+        "city_experience": 27.0
+    },
+    "Chhattisgarh": {
+        "elo": 1463.906398387228,
+        "last10_form": 0.3,
+        "format_elo": 1463.906398387228,
+        "city_experience": 2.0
+    },
+    "New South Wales": {
+        "elo": 1506.4567323440806,
+        "last10_form": 0.5,
+        "format_elo": 1506.4567323440806,
+        "city_experience": 11.0
+    },
+    "Tasmania": {
+        "elo": 1475.0920774081455,
+        "last10_form": 0.3,
+        "format_elo": 1475.0920774081455,
+        "city_experience": 38.0
+    },
+    "Multan Sultans": {
+        "elo": 1485.6604709975225,
+        "last10_form": 0.6,
+        "format_elo": 1485.6604709975225,
+        "city_experience": 22.0
+    },
+    "Western Australia": {
+        "elo": 1501.0362238759924,
+        "last10_form": 0.4,
+        "format_elo": 1501.0362238759924,
+        "city_experience": 8.0
+    },
+    "Gambia": {
+        "elo": 1385.4305366622577,
+        "last10_form": 0.1,
+        "format_elo": 1418.3352387672562,
+        "city_experience": 2.0
+    },
+    "Trailblazers": {
+        "elo": 1488.7964841231526,
+        "last10_form": 0.42857142857142855,
+        "format_elo": 1488.7964841231526,
+        "city_experience": 1.0
+    },
+    "Rwanda": {
+        "elo": 1550.378004374718,
+        "last10_form": 0.5,
+        "format_elo": 1543.8765260730654,
+        "city_experience": 88.0
+    },
+    "Birmingham Bears": {
+        "elo": 1553.9565054022714,
+        "last10_form": 0.6,
+        "format_elo": 1563.4401533830026,
+        "city_experience": 1.0
+    },
+    "Malawi": {
+        "elo": 1388.3026752361645,
+        "last10_form": 0.6,
+        "format_elo": 1455.770383285776,
+        "city_experience": 21.0
+    },
+    "Mozambique": {
+        "elo": 1308.9501202513661,
+        "last10_form": 0.3,
+        "format_elo": 1408.1281436921024,
+        "city_experience": 37.0
+    },
+    "Lesotho": {
+        "elo": 1163.8675531884764,
+        "last10_form": 0.1,
+        "format_elo": 1247.3533676480122,
+        "city_experience": 34.0
+    },
+    "Isle of Man": {
+        "elo": 1512.7265666868202,
+        "last10_form": 0.4,
+        "format_elo": 1544.6467464228888,
+        "city_experience": 0.0
+    },
+    "Spain": {
+        "elo": 1667.6966072236958,
+        "last10_form": 0.6,
+        "format_elo": 1709.12236809877,
+        "city_experience": 13.0
+    },
+    "Sweden": {
+        "elo": 1585.5780414625547,
+        "last10_form": 0.9,
+        "format_elo": 1549.1877255079603,
+        "city_experience": 7.0
+    },
+    "Finland": {
+        "elo": 1397.521064651169,
+        "last10_form": 0.4,
+        "format_elo": 1396.7264779001412,
+        "city_experience": 1.0
+    },
+    "Portugal": {
+        "elo": 1597.9288812203015,
+        "last10_form": 0.8,
+        "format_elo": 1580.2453110939487,
+        "city_experience": 15.0
+    },
+    "Cyprus": {
+        "elo": 1591.532679702462,
+        "last10_form": 0.8,
+        "format_elo": 1606.264500008906,
+        "city_experience": 26.0
+    },
+    "Belize": {
+        "elo": 1357.1618581607315,
+        "last10_form": 0.3,
+        "format_elo": 1427.7136737857293,
+        "city_experience": 6.0
+    },
+    "Panama": {
+        "elo": 1355.5021973115902,
+        "last10_form": 0.4,
+        "format_elo": 1481.8158997747748,
+        "city_experience": 2.0
+    },
+    "Myanmar": {
+        "elo": 1419.1540958530877,
+        "last10_form": 0.6,
+        "format_elo": 1423.7420448610544,
+        "city_experience": 4.0
+    },
+    "Swaziland": {
+        "elo": 1382.7646439880095,
+        "last10_form": 0.0,
+        "format_elo": 1439.9441233028374,
+        "city_experience": 4.0
+    },
+    "St Helena": {
+        "elo": 1369.0530559335796,
+        "last10_form": 0.2,
+        "format_elo": 1389.624581636055,
+        "city_experience": 2.0
+    },
+    "Cape Town Blitz": {
+        "elo": 1489.7292265803687,
+        "last10_form": 0.4,
+        "format_elo": 1489.7292265803687,
+        "city_experience": 9.0
+    },
+    "Jozi Stars": {
+        "elo": 1451.0204073134198,
+        "last10_form": 0.3,
+        "format_elo": 1451.0204073134198,
+        "city_experience": 8.0
+    },
+    "Tshwane Spartans": {
+        "elo": 1510.047665573185,
+        "last10_form": 0.6,
+        "format_elo": 1510.047665573185,
+        "city_experience": 2.0
+    },
+    "Durban Heat": {
+        "elo": 1453.1549410230173,
+        "last10_form": 0.3,
+        "format_elo": 1453.1549410230173,
+        "city_experience": 1.0
+    },
+    "Nelson Mandela Bay Giants": {
+        "elo": 1533.6198234593699,
+        "last10_form": 0.5,
+        "format_elo": 1533.6198234593699,
+        "city_experience": 1.0
+    },
+    "Paarl Rocks": {
+        "elo": 1529.0432218485773,
+        "last10_form": 0.7,
+        "format_elo": 1529.0432218485773,
+        "city_experience": 9.0
+    },
+    "Victoria": {
+        "elo": 1505.5747062078276,
+        "last10_form": 0.6,
+        "format_elo": 1505.5747062078276,
+        "city_experience": 5.0
+    },
+    "Philippines": {
+        "elo": 1413.894824308625,
+        "last10_form": 0.5,
+        "format_elo": 1459.6009564060382,
+        "city_experience": 5.0
+    },
+    "Nagaland": {
+        "elo": 1366.5726415264787,
+        "last10_form": 0.4,
+        "format_elo": 1366.5726415264787,
+        "city_experience": 0.0
+    },
+    "Arunachal Pradesh": {
+        "elo": 1251.1524094548247,
+        "last10_form": 0.0,
+        "format_elo": 1251.1524094548247,
+        "city_experience": 1.0
+    },
+    "Puducherry": {
+        "elo": 1422.6816822965395,
+        "last10_form": 0.3,
+        "format_elo": 1422.6816822965395,
+        "city_experience": 2.0
+    },
+    "Bihar": {
+        "elo": 1422.2764737662226,
+        "last10_form": 0.5,
+        "format_elo": 1422.2764737662226,
+        "city_experience": 2.0
+    },
+    "Manipur": {
+        "elo": 1307.2730775182483,
+        "last10_form": 0.2,
+        "format_elo": 1307.2730775182483,
+        "city_experience": 1.0
+    },
+    "Sikkim": {
+        "elo": 1300.7401210576788,
+        "last10_form": 0.1,
+        "format_elo": 1300.7401210576788,
+        "city_experience": 18.0
+    },
+    "Mizoram": {
+        "elo": 1235.4203095983428,
+        "last10_form": 0.1,
+        "format_elo": 1235.4203095983428,
+        "city_experience": 0.0
+    },
+    "Uttarakhand": {
+        "elo": 1456.2192480239323,
+        "last10_form": 0.3,
+        "format_elo": 1456.2192480239323,
+        "city_experience": 3.0
+    },
+    "Meghalaya": {
+        "elo": 1451.0437187648322,
+        "last10_form": 0.7,
+        "format_elo": 1451.0437187648322,
+        "city_experience": 1.0
+    },
+    "Delhi Capitals": {
+        "elo": 1528.6526340142404,
+        "last10_form": 0.4,
+        "format_elo": 1528.6526340142404,
+        "city_experience": 31.0
+    },
+    "Barbados": {
+        "elo": 1649.9356000795626,
+        "last10_form": 1.0,
+        "format_elo": 1571.1612346579657,
+        "city_experience": 1.0
+    },
+    "Trinidad and Tobago": {
+        "elo": 1526.7140876435699,
+        "last10_form": 0.75,
+        "format_elo": 1500.0,
+        "city_experience": 4.0
+    },
+    "Guyana": {
+        "elo": 1511.9076527557756,
+        "last10_form": 0.5714285714285714,
+        "format_elo": 1515.263693206478,
+        "city_experience": 7.0
+    },
+    "Supernovas": {
+        "elo": 1507.9841768631532,
+        "last10_form": 0.5555555555555556,
+        "format_elo": 1507.9841768631532,
+        "city_experience": 2.0
+    },
+    "Velocity": {
+        "elo": 1502.1336701435484,
+        "last10_form": 0.5,
+        "format_elo": 1502.1336701435484,
+        "city_experience": 1.0
+    },
+    "Chandigarh": {
+        "elo": 1483.701836070326,
+        "last10_form": 0.5,
+        "format_elo": 1483.701836070326,
+        "city_experience": 10.0
+    },
+    "Cumilla Warriors": {
+        "elo": 1482.6367385967853,
+        "last10_form": 0.4,
+        "format_elo": 1482.6367385967853,
+        "city_experience": 3.0
+    },
+    "Sylhet Thunder": {
+        "elo": 1396.5434244373391,
+        "last10_form": 0.1,
+        "format_elo": 1396.5434244373391,
+        "city_experience": 5.0
+    },
+    "Chattogram Challengers": {
+        "elo": 1534.0515046883809,
+        "last10_form": 0.6,
+        "format_elo": 1534.0515046883809,
+        "city_experience": 27.0
+    },
+    "Dhaka Platoon": {
+        "elo": 1524.906809609114,
+        "last10_form": 0.6,
+        "format_elo": 1524.906809609114,
+        "city_experience": 8.0
+    },
+    "Rangpur Rangers": {
+        "elo": 1470.0987874273756,
+        "last10_form": 0.4,
+        "format_elo": 1470.0987874273756,
+        "city_experience": 6.0
+    },
+    "Rajshahi Royals": {
+        "elo": 1547.5552054079867,
+        "last10_form": 0.6,
+        "format_elo": 1547.5552054079867,
+        "city_experience": 9.0
+    },
+    "Khulna Tigers": {
+        "elo": 1532.470645198085,
+        "last10_form": 0.5,
+        "format_elo": 1532.470645198085,
+        "city_experience": 31.0
+    },
+    "Iran": {
+        "elo": 1500.0,
+        "last10_form": 0.5,
+        "format_elo": 1500.0,
+        "city_experience": 0.0
+    },
+    "South East Stars": {
+        "elo": 1638.9382378846997,
+        "last10_form": 0.6,
+        "format_elo": 1624.0715645326245,
+        "city_experience": 2.0
+    },
+    "Sunrisers": {
+        "elo": 1393.7722797608205,
+        "last10_form": 0.2,
+        "format_elo": 1377.3015891867628,
+        "city_experience": 3.0
+    },
+    "Thunder": {
+        "elo": 1443.2347056073866,
+        "last10_form": 0.3,
+        "format_elo": 1428.446415065476,
+        "city_experience": 1.0
+    },
+    "Northern Diamonds": {
+        "elo": 1552.6107222636178,
+        "last10_form": 0.7,
+        "format_elo": 1537.5656608501972,
+        "city_experience": 18.0
+    },
+    "Lightning": {
+        "elo": 1395.586884147196,
+        "last10_form": 0.2,
+        "format_elo": 1387.0828553697083,
+        "city_experience": 0.0
+    },
+    "Bulgaria": {
+        "elo": 1266.52210946111,
+        "last10_form": 0.3,
+        "format_elo": 1370.8144330030984,
+        "city_experience": 5.0
+    },
+    "Romania": {
+        "elo": 1533.9895252208141,
+        "last10_form": 0.5,
+        "format_elo": 1548.7068886776904,
+        "city_experience": 28.0
+    },
+    "Galle Gladiators": {
+        "elo": 1437.1406695422122,
+        "last10_form": 0.3,
+        "format_elo": 1437.1406695422122,
+        "city_experience": 10.0
+    },
+    "Colombo Kings": {
+        "elo": 1544.3014592636837,
+        "last10_form": 0.7142857142857143,
+        "format_elo": 1544.3014592636837,
+        "city_experience": 7.0
+    },
+    "Dambulla Viiking": {
+        "elo": 1555.0166405101784,
+        "last10_form": 0.8333333333333334,
+        "format_elo": 1555.0166405101784,
+        "city_experience": 6.0
+    },
+    "Jaffna Stallions": {
+        "elo": 1520.9792692309331,
+        "last10_form": 0.625,
+        "format_elo": 1520.9792692309331,
+        "city_experience": 8.0
+    },
+    "Kandy Tuskers": {
+        "elo": 1476.1751547219303,
+        "last10_form": 0.3333333333333333,
+        "format_elo": 1476.1751547219303,
+        "city_experience": 6.0
+    },
+    "Punjab Kings": {
+        "elo": 1603.1453109557622,
+        "last10_form": 0.7,
+        "format_elo": 1603.1453109557622,
+        "city_experience": 7.0
+    },
+    "Luxembourg": {
+        "elo": 1336.4320574105632,
+        "last10_form": 0.1,
+        "format_elo": 1412.4669947911184,
+        "city_experience": 6.0
+    },
+    "Czech Republic": {
+        "elo": 1335.6738919204806,
+        "last10_form": 0.2,
+        "format_elo": 1350.3084475755002,
+        "city_experience": 2.0
+    },
+    "Central Sparks": {
+        "elo": 1465.494832700639,
+        "last10_form": 0.3,
+        "format_elo": 1450.7790559193531,
+        "city_experience": 2.0
+    },
+    "Greece": {
+        "elo": 1340.235730416526,
+        "last10_form": 0.1,
+        "format_elo": 1381.1202091099453,
+        "city_experience": 3.0
+    },
+    "Serbia": {
+        "elo": 1341.054740922042,
+        "last10_form": 0.5,
+        "format_elo": 1377.7760811970652,
+        "city_experience": 3.0
+    },
+    "Malta": {
+        "elo": 1383.618286791844,
+        "last10_form": 0.5,
+        "format_elo": 1441.4073688638555,
+        "city_experience": 35.0
+    },
+    "Manchester Originals": {
+        "elo": 1462.9522130601722,
+        "last10_form": 0.6,
+        "format_elo": 1462.9522130601722,
+        "city_experience": 9.0
+    },
+    "Oval Invincibles": {
+        "elo": 1545.543325222864,
+        "last10_form": 0.5,
+        "format_elo": 1545.543325222864,
+        "city_experience": 50.0
+    },
+    "London Spirit": {
+        "elo": 1486.7046939176032,
+        "last10_form": 0.4,
+        "format_elo": 1486.7046939176032,
+        "city_experience": 45.0
+    },
+    "Birmingham Phoenix": {
+        "elo": 1443.2809829877547,
+        "last10_form": 0.3,
+        "format_elo": 1443.2809829877547,
+        "city_experience": 8.0
+    },
+    "Southern Brave": {
+        "elo": 1587.075903266157,
+        "last10_form": 0.7,
+        "format_elo": 1587.075903266157,
+        "city_experience": 16.0
+    },
+    "Welsh Fire": {
+        "elo": 1418.9181295390651,
+        "last10_form": 0.3,
+        "format_elo": 1418.9181295390651,
+        "city_experience": 34.0
+    },
+    "Northern Superchargers": {
+        "elo": 1576.9073288069158,
+        "last10_form": 0.7,
+        "format_elo": 1576.9073288069158,
+        "city_experience": 11.0
+    },
+    "Trent Rockets": {
+        "elo": 1519.906379194724,
+        "last10_form": 0.5,
+        "format_elo": 1519.906379194724,
+        "city_experience": 5.0
+    },
+    "Barbados Royals": {
+        "elo": 1529.6861235396989,
+        "last10_form": 0.4,
+        "format_elo": 1529.6861235396989,
+        "city_experience": 12.0
+    },
+    "St Lucia Kings": {
+        "elo": 1611.3289465987184,
+        "last10_form": 0.7,
+        "format_elo": 1611.3289465987184,
+        "city_experience": 10.0
+    },
+    "Hungary": {
+        "elo": 1482.7510420304322,
+        "last10_form": 0.6,
+        "format_elo": 1520.0705640630974,
+        "city_experience": 8.0
+    },
+    "Eswatini": {
+        "elo": 1275.1476412171976,
+        "last10_form": 0.4,
+        "format_elo": 1257.4996228077532,
+        "city_experience": 2.0
+    },
+    "Cameroon": {
+        "elo": 1261.5452152660291,
+        "last10_form": 0.2,
+        "format_elo": 1356.0608163053555,
+        "city_experience": 9.0
+    },
+    "Estonia": {
+        "elo": 1387.7264031874586,
+        "last10_form": 0.4,
+        "format_elo": 1413.8615451429537,
+        "city_experience": 8.0
+    },
+    "Seychelles": {
+        "elo": 1373.9283929042638,
+        "last10_form": 0.1,
+        "format_elo": 1386.6260345766977,
+        "city_experience": 3.0
+    },
+    "Switzerland": {
+        "elo": 1612.5915136462127,
+        "last10_form": 0.8,
+        "format_elo": 1524.7521249598365,
+        "city_experience": 3.0
+    },
+    "Dambulla Giants": {
+        "elo": 1495.3487461796078,
+        "last10_form": 0.5,
+        "format_elo": 1495.3487461796078,
+        "city_experience": 6.0
+    },
+    "Kandy Warriors": {
+        "elo": 1456.6736751136025,
+        "last10_form": 0.2,
+        "format_elo": 1456.6736751136025,
+        "city_experience": 5.0
+    },
+    "Jaffna Kings": {
+        "elo": 1528.9735928330285,
+        "last10_form": 0.5,
+        "format_elo": 1528.9735928330285,
+        "city_experience": 20.0
+    },
+    "Colombo Stars": {
+        "elo": 1500.4388325041318,
+        "last10_form": 0.5,
+        "format_elo": 1500.4388325041318,
+        "city_experience": 12.0
+    },
+    "Minister Group Dhaka": {
+        "elo": 1516.5597531593262,
+        "last10_form": 0.5,
+        "format_elo": 1516.5597531593262,
+        "city_experience": 4.0
+    },
+    "Sylhet Sunrisers": {
+        "elo": 1428.5846232340386,
+        "last10_form": 0.125,
+        "format_elo": 1428.5846232340386,
+        "city_experience": 3.0
+    },
+    "Fortune Barishal": {
+        "elo": 1662.737628850468,
+        "last10_form": 0.8,
+        "format_elo": 1662.737628850468,
+        "city_experience": 12.0
+    },
+    "Boland": {
+        "elo": 1508.8951463297392,
+        "last10_form": 0.4,
+        "format_elo": 1506.3409576391182,
+        "city_experience": 0.0
+    },
+    "North West": {
+        "elo": 1505.7859262624256,
+        "last10_form": 0.4,
+        "format_elo": 1505.7859262624256,
+        "city_experience": 0.0
+    },
+    "Western Province": {
+        "elo": 1478.2789958160076,
+        "last10_form": 0.4,
+        "format_elo": 1475.7476722374906,
+        "city_experience": 1.0
+    },
+    "Lucknow Super Giants": {
+        "elo": 1462.7804268886885,
+        "last10_form": 0.3,
+        "format_elo": 1462.7804268886885,
+        "city_experience": 23.0
+    },
+    "Gujarat Titans": {
+        "elo": 1553.8423112266173,
+        "last10_form": 0.4,
+        "format_elo": 1553.8423112266173,
+        "city_experience": 3.0
+    },
+    "Warriors (FairBreak)": {
+        "elo": 1441.0494038596044,
+        "last10_form": 0.0,
+        "format_elo": 1441.0494038596044,
+        "city_experience": 4.0
+    },
+    "Barmy Army": {
+        "elo": 1516.5157761065998,
+        "last10_form": 0.5,
+        "format_elo": 1517.4797485229237,
+        "city_experience": 6.0
+    },
+    "Tornadoes": {
+        "elo": 1476.206081269786,
+        "last10_form": 0.4,
+        "format_elo": 1476.2983833599474,
+        "city_experience": 4.0
+    },
+    "Spirit": {
+        "elo": 1542.444201703374,
+        "last10_form": 0.7,
+        "format_elo": 1543.4411072295632,
+        "city_experience": 5.0
+    },
+    "Sapphires": {
+        "elo": 1476.633561650502,
+        "last10_form": 0.375,
+        "format_elo": 1477.6486596126356,
+        "city_experience": 3.0
+    },
+    "Falcons": {
+        "elo": 1485.4292982243135,
+        "last10_form": 0.4444444444444444,
+        "format_elo": 1485.4292982243135,
+        "city_experience": 2.0
+    },
+    "Leeward Islands": {
+        "elo": 1454.809162145323,
+        "last10_form": 0.0,
+        "format_elo": 1454.809162145323,
+        "city_experience": 3.0
+    },
+    "Jamaica": {
+        "elo": 1516.1875868126226,
+        "last10_form": 0.5714285714285714,
+        "format_elo": 1484.0,
+        "city_experience": 7.0
+    },
+    "Brazil": {
+        "elo": 1513.9674993983804,
+        "last10_form": 0.7,
+        "format_elo": 1518.1412675783868,
+        "city_experience": 4.0
+    },
+    "Windward Islands": {
+        "elo": 1419.0357416345876,
+        "last10_form": 0.125,
+        "format_elo": 1483.263693206478,
+        "city_experience": 8.0
+    },
+    "Croatia": {
+        "elo": 1323.2127401199054,
+        "last10_form": 0.0,
+        "format_elo": 1344.0414314723685,
+        "city_experience": 4.0
+    },
+    "Turkey": {
+        "elo": 1362.5793679167823,
+        "last10_form": 0.5,
+        "format_elo": 1479.6702996181393,
+        "city_experience": 0.0
+    },
+    "Slovenia": {
+        "elo": 1341.9772304685685,
+        "last10_form": 0.1,
+        "format_elo": 1399.5020575161423,
+        "city_experience": 2.0
+    },
+    "Cook Islands": {
+        "elo": 1358.4180952189092,
+        "last10_form": 0.1,
+        "format_elo": 1418.5835232639772,
+        "city_experience": 4.0
+    },
+    "Himachal Pradesh": {
+        "elo": 1568.3064261254654,
+        "last10_form": 1.0,
+        "format_elo": 1568.3064261254654,
+        "city_experience": 1.0
+    },
+    "Mali": {
+        "elo": 1341.8222695681889,
+        "last10_form": 0.0,
+        "format_elo": 1370.0123742692326,
+        "city_experience": 4.0
+    },
+    "Kandy Falcons": {
+        "elo": 1494.9786730296562,
+        "last10_form": 0.3,
+        "format_elo": 1494.9786730296562,
+        "city_experience": 5.0
+    },
+    "Dambulla Aura": {
+        "elo": 1560.6464683540692,
+        "last10_form": 0.8,
+        "format_elo": 1560.6464683540692,
+        "city_experience": 8.0
+    },
+    "Paarl Royals": {
+        "elo": 1515.7379229891599,
+        "last10_form": 0.6,
+        "format_elo": 1515.7379229891599,
+        "city_experience": 4.0
+    },
+    "Sylhet Strikers": {
+        "elo": 1476.9447295996893,
+        "last10_form": 0.2,
+        "format_elo": 1476.9447295996893,
+        "city_experience": 16.0
+    },
+    "Joburg Super Kings": {
+        "elo": 1442.5414650027838,
+        "last10_form": 0.3,
+        "format_elo": 1442.5414650027838,
+        "city_experience": 3.0
+    },
+    "Pretoria Capitals": {
+        "elo": 1505.7160496983404,
+        "last10_form": 0.6,
+        "format_elo": 1505.7160496983404,
+        "city_experience": 4.0
+    },
+    "MI Cape Town": {
+        "elo": 1511.480550444528,
+        "last10_form": 0.5,
+        "format_elo": 1511.480550444528,
+        "city_experience": 4.0
+    },
+    "Dubai Capitals": {
+        "elo": 1565.6156267034748,
+        "last10_form": 0.6,
+        "format_elo": 1565.6156267034748,
+        "city_experience": 9.0
+    },
+    "MI Emirates": {
+        "elo": 1516.0674592274645,
+        "last10_form": 0.5,
+        "format_elo": 1516.0674592274645,
+        "city_experience": 22.0
+    },
+    "Dhaka Dominators": {
+        "elo": 1479.270018601775,
+        "last10_form": 0.3,
+        "format_elo": 1479.270018601775,
+        "city_experience": 4.0
+    },
+    "Durban's Super Giants": {
+        "elo": 1463.7183283386566,
+        "last10_form": 0.3,
+        "format_elo": 1463.7183283386566,
+        "city_experience": 15.0
+    },
+    "Sharjah Warriors": {
+        "elo": 1463.0464129633588,
+        "last10_form": 0.4,
+        "format_elo": 1463.0464129633588,
+        "city_experience": 8.0
+    },
+    "Abu Dhabi Knight Riders": {
+        "elo": 1446.4893012625155,
+        "last10_form": 0.4,
+        "format_elo": 1446.4893012625155,
+        "city_experience": 4.0
+    },
+    "Gulf Giants": {
+        "elo": 1487.2194373056477,
+        "last10_form": 0.4,
+        "format_elo": 1487.2194373056477,
+        "city_experience": 8.0
+    },
+    "Desert Vipers": {
+        "elo": 1599.0034499192518,
+        "last10_form": 0.8,
+        "format_elo": 1599.0034499192518,
+        "city_experience": 27.0
+    },
+    "Sunrisers Eastern Cape": {
+        "elo": 1569.7139158152183,
+        "last10_form": 0.6,
+        "format_elo": 1569.7139158152183,
+        "city_experience": 2.0
+    },
+    "Cambodia": {
+        "elo": 1297.534462148104,
+        "last10_form": 0.0,
+        "format_elo": 1339.3012091052851,
+        "city_experience": 20.0
+    },
+    "Gujarat Giants": {
+        "elo": 1504.1972022520656,
+        "last10_form": 0.5,
+        "format_elo": 1504.1972022520656,
+        "city_experience": 7.0
+    },
+    "UP Warriorz": {
+        "elo": 1426.40737402305,
+        "last10_form": 0.3,
+        "format_elo": 1426.40737402305,
+        "city_experience": 4.0
+    },
+    "The Blaze": {
+        "elo": 1677.5653151183415,
+        "last10_form": 0.6,
+        "format_elo": 1677.548994426568,
+        "city_experience": 4.0
+    },
+    "Texas Super Kings": {
+        "elo": 1555.902581331422,
+        "last10_form": 0.7,
+        "format_elo": 1555.902581331422,
+        "city_experience": 14.0
+    },
+    "San Francisco Unicorns": {
+        "elo": 1558.3574633672197,
+        "last10_form": 0.7,
+        "format_elo": 1558.3574633672197,
+        "city_experience": 14.0
+    },
+    "Washington Freedom": {
+        "elo": 1617.9954470964024,
+        "last10_form": 0.8,
+        "format_elo": 1617.9954470964024,
+        "city_experience": 12.0
+    },
+    "Seattle Orcas": {
+        "elo": 1448.6092477892344,
+        "last10_form": 0.3,
+        "format_elo": 1448.6092477892344,
+        "city_experience": 1.0
+    },
+    "MI New York": {
+        "elo": 1481.4778579844922,
+        "last10_form": 0.5,
+        "format_elo": 1481.4778579844922,
+        "city_experience": 17.0
+    },
+    "Los Angeles Knight Riders": {
+        "elo": 1361.5828962707567,
+        "last10_form": 0.1,
+        "format_elo": 1361.5828962707567,
+        "city_experience": 2.0
+    },
+    "Colombo Strikers": {
+        "elo": 1491.6442475571191,
+        "last10_form": 0.5,
+        "format_elo": 1491.6442475571191,
+        "city_experience": 8.0
+    },
+    "Galle Titans": {
+        "elo": 1494.8971173049247,
+        "last10_form": 0.42857142857142855,
+        "format_elo": 1494.8971173049247,
+        "city_experience": 4.0
+    },
+    "B-Love Kandy": {
+        "elo": 1524.382681286563,
+        "last10_form": 0.5555555555555556,
+        "format_elo": 1524.382681286563,
+        "city_experience": 6.0
+    },
+    "Chile": {
+        "elo": 1399.850271280767,
+        "last10_form": 0.0,
+        "format_elo": 1411.5174185513115,
+        "city_experience": 1.0
+    },
+    "Mexico": {
+        "elo": 1436.1536537121312,
+        "last10_form": 0.4,
+        "format_elo": 1557.4788001069537,
+        "city_experience": 5.0
+    },
+    "Durdanto Dhaka": {
+        "elo": 1415.2793811489519,
+        "last10_form": 0.1,
+        "format_elo": 1415.2793811489519,
+        "city_experience": 1.0
+    },
+    "Royal Challengers Bengaluru": {
+        "elo": 1654.6632933877274,
+        "last10_form": 0.8,
+        "format_elo": 1654.6632933877274,
+        "city_experience": 3.0
+    },
+    "Costa Rica": {
+        "elo": 1380.839274376493,
+        "last10_form": 0.2,
+        "format_elo": 1397.036076291949,
+        "city_experience": 4.0
+    },
+    "Mongolia": {
+        "elo": 1190.50819001953,
+        "last10_form": 0.0,
+        "format_elo": 1320.1874146093242,
+        "city_experience": 9.0
+    },
+    "Kandy Customs Cricket Club": {
+        "elo": 1392.553801354749,
+        "last10_form": 0.2,
+        "format_elo": 1419.3987883520506,
+        "city_experience": 9.0
+    },
+    "Badureliya Sports Club": {
+        "elo": 1426.843844238268,
+        "last10_form": 0.3,
+        "format_elo": 1467.2103828400805,
+        "city_experience": 0.0
+    },
+    "Chilaw Marians Cricket Club": {
+        "elo": 1373.6480862982576,
+        "last10_form": 0.2,
+        "format_elo": 1404.396778144182,
+        "city_experience": 2.0
+    },
+    "Negombo Cricket Club": {
+        "elo": 1431.390993914097,
+        "last10_form": 0.2,
+        "format_elo": 1429.6040270673302,
+        "city_experience": 6.0
+    },
+    "Tamil Union Cricket and Athletic Club": {
+        "elo": 1505.0088728206908,
+        "last10_form": 0.5,
+        "format_elo": 1502.5627913288936,
+        "city_experience": 21.0
+    },
+    "Colombo Cricket Club": {
+        "elo": 1679.574255617886,
+        "last10_form": 0.9,
+        "format_elo": 1655.769639028394,
+        "city_experience": 25.0
+    },
+    "Nugegoda Sports Welfare Club": {
+        "elo": 1420.7657706591838,
+        "last10_form": 0.5,
+        "format_elo": 1411.0017064923723,
+        "city_experience": 2.0
+    },
+    "Panadura Sports Club": {
+        "elo": 1489.844190291767,
+        "last10_form": 0.5,
+        "format_elo": 1422.8943652046773,
+        "city_experience": 1.0
+    },
+    "Ace Capital Cricket Club": {
+        "elo": 1545.6251168899926,
+        "last10_form": 0.4,
+        "format_elo": 1568.4933508458155,
+        "city_experience": 18.0
+    },
+    "Nondescripts Cricket Club": {
+        "elo": 1651.1667099089877,
+        "last10_form": 0.7,
+        "format_elo": 1591.9941331452753,
+        "city_experience": 0.0
+    },
+    "Kurunegala Youth Cricket Club": {
+        "elo": 1355.6047651304089,
+        "last10_form": 0.0,
+        "format_elo": 1394.7329119827878,
+        "city_experience": 7.0
+    },
+    "Burgher Recreation Club": {
+        "elo": 1482.7577498959795,
+        "last10_form": 0.3,
+        "format_elo": 1454.2699265503904,
+        "city_experience": 19.0
+    },
+    "Police Sports Club": {
+        "elo": 1513.7252488818287,
+        "last10_form": 0.6,
+        "format_elo": 1559.4829643369662,
+        "city_experience": 17.0
+    },
+    "Moors Sports Club": {
+        "elo": 1614.3476571033445,
+        "last10_form": 0.7,
+        "format_elo": 1574.2035164189306,
+        "city_experience": 16.0
+    },
+    "Bloomfield Cricket and Athletic Club": {
+        "elo": 1534.1680488515233,
+        "last10_form": 0.4,
+        "format_elo": 1533.9377119130243,
+        "city_experience": 24.0
+    },
+    "Sinhalese Sports Club": {
+        "elo": 1524.349127102774,
+        "last10_form": 0.6,
+        "format_elo": 1524.2282354022955,
+        "city_experience": 8.0
+    },
+    "Colts Cricket Club": {
+        "elo": 1586.836251039678,
+        "last10_form": 0.7,
+        "format_elo": 1589.229103006569,
+        "city_experience": 19.0
+    },
+    "Dambulla Sixers": {
+        "elo": 1479.3502141887063,
+        "last10_form": 0.3333333333333333,
+        "format_elo": 1479.3502141887063,
+        "city_experience": 1.0
+    },
+    "Galle Marvels": {
+        "elo": 1530.4430894137483,
+        "last10_form": 0.625,
+        "format_elo": 1530.4430894137483,
+        "city_experience": 2.0
+    },
+    "Antigua and Barbuda Falcons": {
+        "elo": 1502.7067509444269,
+        "last10_form": 0.5,
+        "format_elo": 1502.7067509444269,
+        "city_experience": 2.0
+    },
+    "Ivory Coast": {
+        "elo": 1426.3823972355056,
+        "last10_form": 0.0,
+        "format_elo": 1431.668699808951,
+        "city_experience": 2.0
+    },
+    "Biratnagar Kings": {
+        "elo": 1520.1258135090934,
+        "last10_form": 0.6,
+        "format_elo": 1520.1258135090934,
+        "city_experience": 11.0
+    },
+    "Kathmandu Gurkhas": {
+        "elo": 1499.648595928981,
+        "last10_form": 0.5,
+        "format_elo": 1499.648595928981,
+        "city_experience": 4.0
+    },
+    "Karnali Yaks": {
+        "elo": 1451.8431841148329,
+        "last10_form": 0.3,
+        "format_elo": 1451.8431841148329,
+        "city_experience": 15.0
+    },
+    "Sudur Paschim Royals": {
+        "elo": 1621.9489229708065,
+        "last10_form": 0.8,
+        "format_elo": 1621.9489229708065,
+        "city_experience": 17.0
+    },
+    "Chitwan Rhinos": {
+        "elo": 1467.5119086943273,
+        "last10_form": 0.3,
+        "format_elo": 1467.5119086943273,
+        "city_experience": 14.0
+    },
+    "Lumbini Lions": {
+        "elo": 1491.4623070802722,
+        "last10_form": 0.5,
+        "format_elo": 1491.4623070802722,
+        "city_experience": 15.0
+    },
+    "Pokhara Avengers": {
+        "elo": 1423.8179017400403,
+        "last10_form": 0.2,
+        "format_elo": 1423.8179017400403,
+        "city_experience": 10.0
+    },
+    "Janakpur Bolts": {
+        "elo": 1504.0929833763607,
+        "last10_form": 0.4,
+        "format_elo": 1504.0929833763607,
+        "city_experience": 15.0
+    },
+    "Ragama Cricket Club": {
+        "elo": 1451.5061364459511,
+        "last10_form": 0.3,
+        "format_elo": 1457.4552176946434,
+        "city_experience": 0.0
+    },
+    "Durbar Rajshahi": {
+        "elo": 1491.018237105744,
+        "last10_form": 0.4,
+        "format_elo": 1491.018237105744,
+        "city_experience": 3.0
+    },
+    "Dhaka Capitals": {
+        "elo": 1402.274528319086,
+        "last10_form": 0.2,
+        "format_elo": 1402.274528319086,
+        "city_experience": 6.0
+    },
+    "Sharjah Warriorz": {
+        "elo": 1474.2289918092229,
+        "last10_form": 0.3,
+        "format_elo": 1474.2289918092229,
+        "city_experience": 9.0
+    },
+    "Turks and Caicos Island": {
+        "elo": 1472.5812436496328,
+        "last10_form": 0.3333333333333333,
+        "format_elo": 1481.43057199451,
+        "city_experience": 3.0
+    },
+    "Timor-Leste": {
+        "elo": 1395.268501793543,
+        "last10_form": 0.0,
+        "format_elo": 1407.3108408630526,
+        "city_experience": 6.0
+    },
+    "Kathmandu Gorkhas": {
+        "elo": 1544.4491831249475,
+        "last10_form": 0.7142857142857143,
+        "format_elo": 1544.4491831249475,
+        "city_experience": 7.0
+    },
+    "Zambia": {
+        "elo": 1355.7937667200154,
+        "last10_form": 0.3,
+        "format_elo": 1423.8386904577508,
+        "city_experience": 4.0
+    },
+    "Chattogram Royals": {
+        "elo": 1563.5633445125577,
+        "last10_form": 0.75,
+        "format_elo": 1563.5633445125577,
+        "city_experience": 1.0
+    },
+    "Sylhet Titans": {
+        "elo": 1487.1387960139534,
+        "last10_form": 0.42857142857142855,
+        "format_elo": 1487.1387960139534,
+        "city_experience": 7.0
+    },
+    "Noakhali Express": {
+        "elo": 1440.7774642172,
+        "last10_form": 0.2222222222222222,
+        "format_elo": 1440.7774642172,
+        "city_experience": 1.0
+    },
+    "Rajshahi Warriors": {
+        "elo": 1568.6690054693418,
+        "last10_form": 0.7,
+        "format_elo": 1568.6690054693418,
+        "city_experience": 4.0
+    },
+    "Rawalpindiz": {
+        "elo": 1401.1536377258838,
+        "last10_form": 0.0,
+        "format_elo": 1401.1536377258838,
+        "city_experience": 3.0
+    },
+    "Hyderabad Kingsmen": {
+        "elo": 1539.3835801000503,
+        "last10_form": 0.7,
+        "format_elo": 1539.3835801000503,
+        "city_experience": 5.0
+    },
+    "Asia XI": {
+        "elo": 1517.3341586646084,
+        "last10_form": 0.6666666666666666,
+        "format_elo": 1517.3341586646084,
+        "city_experience": 1.0
+    },
+    "ICC World XI": {
+        "elo": 1478.9549012418872,
+        "last10_form": 0.16666666666666666,
+        "format_elo": 1464.4843566027841,
+        "city_experience": 0.0
+    },
+    "KwaZulu-Natal Inland": {
+        "elo": 1500.0,
+        "last10_form": 0.5,
+        "format_elo": 1500.0,
+        "city_experience": 0.0
+    }
+}
