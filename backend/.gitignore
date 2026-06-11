@@ -1,0 +1,9 @@
+
+# Secrets & Environment Variables
+.env
+.env.*
+!.env.example
+
+# ML Model Files
+*.pkl
+__pycache__/
