@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
+scikit-learn
+xgboost
+catboost
+joblib
+motor            
+pymongo          
+redis
+httpx
+python-dotenv
+apscheduler
