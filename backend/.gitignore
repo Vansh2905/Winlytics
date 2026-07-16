@@ -5,5 +5,4 @@
 !.env.example
 
 # ML Model Files
-*.pkl
 __pycache__/
