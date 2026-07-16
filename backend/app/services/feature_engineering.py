@@ -19,20 +19,6 @@ def feature_engineering(data) -> dict:
     team1_stats = team_stats.get(team1, {})
     team2_stats = team_stats.get(team2, {})
     
-    def get_format_elo(team_stats_dict, format_name):
-        format_elo_data = team_stats_dict.get("format_elo", 1500)
-        
-        # If it's already a dict (future structure)
-        if isinstance(format_elo_data, dict):
-            return format_elo_data.get(format_name, 1500)
-        
-        # If it's a single value (current structure)
-        return format_elo_data
-
-    # Get format-specific Elos
-    format_elo_team1 = get_format_elo(team1_stats, format_type)
-    format_elo_team2 = get_format_elo(team2_stats, format_type)
-
     features = {
         "team1": team1,
         "team2": team2,

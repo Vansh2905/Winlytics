@@ -3,9 +3,9 @@ from typing import Optional
 from enum import Enum
 
 class MatchFormat(str,Enum):
-    T20="T20",
-    ODI="ODI",
-    Test="Test",
+    T20="T20"
+    ODI="ODI"
+    Test="Test"
     other="Other"
 
 class User(BaseModel):
